@@ -9,6 +9,11 @@ My full resume can be found [here](https://github.com/kesimek/Portfolio/blob/3ce
 
 ### My Work / Projects
 
+1. Marketing Promotion Project – Simple project from start to finish demonstrating the data science process and making business related suggestions based on the findings.
+2. Visualizations – Demonstrating the variety of graphics available (and code for production) in Python and R, emphasizing when each would be appropriate and commentary on color schemes.
+3. Predicting Employee Turnover – Real world project focused on evaluating employee turnover, focusing on short-term employment and new hire loss.
+4. Exploratory Data Analysis of HR data - An indepth analysis of real-life data regarding a specific work contract starting as an overview then narrowing down to one specific position.
+
 ---
 
 ### Contact Me
